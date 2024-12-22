@@ -1,6 +1,7 @@
 # Kganya Maleka
 
- # Software engineering | Mobile Application Developer 
+ # Software Developer
+
 
 Welcome to my coding corner! I'm a passionate software developer focused on solving complex problems with innovative solutions. I have a strong enthusiasm for Java, known for its robustness and scalability, and I also enjoy using Python and JavaScript to enhance my skills.
 ## About Me 
