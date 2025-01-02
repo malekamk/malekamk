@@ -76,7 +76,7 @@ I'm a passionate **Software Engineer** specializing in **backend development**, 
 
 ## 📈 GitHub Stats
 
-![Kganya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kganyamaleka&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+![Kganya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=malekamk&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
 ---
 
