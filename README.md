@@ -16,7 +16,6 @@ I'm a passionate **Software Engineer** specializing in **backend development**, 
 ### Frameworks & Libraries
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![Javalin](https://img.shields.io/badge/-Javalin-00B0B9?style=flat&logo=java&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 
 ### Tools & Technologies
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
@@ -26,8 +25,6 @@ I'm a passionate **Software Engineer** specializing in **backend development**, 
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 ### DevOps & Deployment
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/-CI/CD-00BFB3?style=flat&logo=gitlab-ci&logoColor=white)
 ![Uptime Robot](https://img.shields.io/badge/-Uptime%20Robot-35C3FF?style=flat&logo=uptimerobot&logoColor=white)
 
@@ -68,22 +65,6 @@ I'm a passionate **Software Engineer** specializing in **backend development**, 
 
 - **Winner of the Bxrderless Hackathon**: Led the team to **1st place in the GeoTech category** with the **Flood Monitoring and Early Warning System**, integrating **spatial data APIs** and developing an **AI-powered chatbot** for real-time flood alerts.
 - **Top 50 Student at WeThinkCode_**: Ranked among the top 50 students in the cohort for **delivering high-impact software engineering projects**.
-
----
-
-## 📈 GitHub Stats
-
-![Kganya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=malekamk&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
-
----
-
-## 🚀 Projects
-
-Here are some of the projects I’ve worked on:
-
-- **[Flood Monitoring and Early Warning System](https://github.com/Geo-Innovators/Flood-Monitoring)**: A system to monitor flood risks and send early warnings using real-time data (1st place in GeoTech category at Bxrderless Hackathon).
-- **[Backend API System](https://github.com/kganyamaleka/portfolio-backend)**: A robust API system built using Javalin, Dockerized and deployed for 100% uptime.
-- **[Music Recommendation API](https://github.com/kganyamaleka/music-recommender)**: A personalized music recommendation engine integrating the Spotify API.
 
 ---
 
